@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Elom-Golden
+- 👀 I’m interested in web development, UI/UX design, and e-commerce solutions.
+- 🌱 I’m currently learning more about cloud technologies and full-stack development.
+- 💞️ I’m looking to collaborate on open-source web projects and e-commerce platforms.
+- 📫 How to reach me: You can contact me via [elomjoelattisso@gmail.com](mailto:elomjoelattisso@gmail.com) or through my [LinkedIn](https://www.linkedin.com/in/elom-jo%C3%ABl-attisso-3a8965311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a website in 24 hours as part of a hackathon!
